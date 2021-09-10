@@ -2,5 +2,5 @@
 Creating a new branch is quick.
 do it again!
 do it three times.
-main branch try.
+have a try main branch.
 dev branch.
